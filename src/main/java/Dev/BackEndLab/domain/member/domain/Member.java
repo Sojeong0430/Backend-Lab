@@ -1,4 +1,4 @@
-package Dev.BackEndLab.domain.member;
+package Dev.BackEndLab.domain.member.domain;
 
 import Dev.BackEndLab.domain.common.BaseEntity;
 import jakarta.persistence.*;
